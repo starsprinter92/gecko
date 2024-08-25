@@ -6,10 +6,14 @@ lightweight echo replacement
 
 this project is written in python which i dont know that much
 
+gecko version output
+![image](https://github.com/user-attachments/assets/4dfc827d-f99f-42fd-86ec-ff1c6ce159d6)
 
-![image](https://github.com/user-attachments/assets/d4131110-90e7-41f1-8a6b-f9e3f68ab30e)
-
+proof that gecko is lighter than echo
 ![image](https://github.com/user-attachments/assets/78233740-3698-4967-b807-20fbccb5f1e6)
+
+gecko works
+![image](https://github.com/user-attachments/assets/934ec522-ba26-4387-a2f3-9353b98c94f1)
 
 # INSTALL
 
