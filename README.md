@@ -6,6 +6,8 @@ lightweight echo replacement
 
 this project is written in python which i dont know that much
 
+(NOTE) gecko output dissapears after resizing the terminal
+
 gecko version output
 ![image](https://github.com/user-attachments/assets/4dfc827d-f99f-42fd-86ec-ff1c6ce159d6)
 
