@@ -10,7 +10,7 @@ import getopt, sys
 argumentList = sys.argv[1:]
 
 # Options
-options = "hl:"
+options = "hv"
 
 # Long options
 long_options = ["help", "version"]
@@ -23,9 +23,9 @@ try:
     for currentArgument, currentValue in arguments:
 
         if currentArgument in ("-h", "--help"):
-            print ("Usage: gecko [ARGS], gecko [ARGS] >> file.txt \n OPTS: -h: print help, -v: version \n Gecko, the light echo utilitie developed by guy")
+            print ("Usage: gecko [ARGS], gecko [ARGS] >> file.txt \n OPTS: -h: print help, -v: version \n Gecko, the light echo utility developed by guy")
             
-        elif currentArgument in ("-l", "--version"):
+        elif currentArgument in ("-v", "--version"):
             print ("Version: Gecko 1.0 developed by guy")
             
             
